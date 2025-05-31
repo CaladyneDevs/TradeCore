@@ -1,4 +1,4 @@
-Here’s a contextual overview and inferred use case for the code in Injector.Cambistry.cs and related classes:
+Here’s a contextual overview and inferred use case for the code in (TradeCore)Injector.Cambistry.cs and related classes:
 
 ---
 
